@@ -5,3 +5,4 @@ Grabs music information from Instagram Stories/Highlights and creates a list of 
 ## TO DO
 - Fix the animations playing everytime the screen is changed
 - Add stuff to the second screen
+DEADLINE: Dec 29
